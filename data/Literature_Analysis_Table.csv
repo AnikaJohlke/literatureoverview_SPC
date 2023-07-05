@@ -1,0 +1,446 @@
+﻿File name (local);Journal;Database;CC Type;Special CC Type;Attribute/Variable;Special Data Type;Multivariate;Distribution-free;Distribution;Computation method;Performance metric;Economic Design
+amdouni2017;ijpr;EconBiz;Shewhart;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;ATS, overall;n
+aslam2015;ijpr;EconBiz;Shewhart;;Variable and Attribute;;n;n;Normal, Binomial;(Monte Carlo) Simulation, Analytically;ARL;n
+avakdarestani2016;ijqrm;EconBiz;Shewhart;;Variable;;n;n;Normal;Analytically;PCA;n
+bahria2019;ijpr;EconBiz;Shewhart;;Variable;;n;n;Normal;Analytically;-;y
+baud-lavigne2010;ijpr;EconBiz;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;y
+celano2016;ijpr;EconBiz;Shewhart;;Variable;;n;y;Normal, t, Gamma;Analytically;FAR;n
+celano2020;ijpr;EconBiz;Shewhart;;Variable;;n;y;Normal, t, Gamma;(Monte Carlo) Simulation, Analytically;FAR;n
+chang2010;ijpr;EconBiz;Shewhart;;Variable;Profile / Surface;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+chien2013;ijpr;EconBiz;Shewhart;;Variable;;n;n;Lognormal;not mentioned;-;n
+chou2013;ijpr;EconBiz;EWMA;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+colosimo2010;ijpr;EconBiz;Shewhart;;Variable;Profile / Surface, Autocorrelated;y;n;Time Series Model, Normal;(Monte Carlo) Simulation, Analytically;ARL, FAR;n
+ding2016;ijpr;EconBiz;Shewhart;;Variable and Attribute;Profile / Surface;y;n;Regression, Multinomial, Normal;(Monte Carlo) Simulation;ARL;n
+du2012;ijpr;EconBiz;Shewhart;;Variable;;y;n;Normal;not mentioned;-;n
+faraz2015;ijpr;EconBiz;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+faraz2017;ijpr;EconBiz;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+fernandez2014;ijpr;EconBiz;Shewhart;;Attribute;;y;n;Multinomial;not mentioned;-;n
+garcia-bustos2014;ijpr;EconBiz;EWMA;;Attribute;;y;n;Poisson;Markov Chain Approach;ARL;n
+goedhart2016;ijpr;EconBiz;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL, overall;n
+graham2014;ijpr;EconBiz;CUSUM;;Variable;;n;y;Normal, t, Exponential, Laplace, Lognormal;(Monte Carlo) Simulation;ARL;n
+graham2016;ijpr;EconBiz;EWMA;;Variable;;n;y;Normal, Exponential, Laplace;(Monte Carlo) Simulation;ARL;n
+haridy2014;ijpr;EconBiz;Shewhart;;Attribute;;n;n;Normal;Numerical Integration, Analytically;ATS, overall;n
+he2013;ijpr;EconBiz;Shewhart;;Variable and Attribute;;y;n;Normal;(Monte Carlo) Simulation;ARL, classification;n
+he2015;ijpr;EconBiz;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+he2021;ijpr;EconBiz;CUSUM;;Variable and Attribute;TBE;y;y;Regression, Normal, t, Gamma, Exponential;(Monte Carlo) Simulation;ARL;n
+hou2021;ijpr;EconBiz;CUSUM;;Variable;;n;y;Normal, t, Lognormal;(Monte Carlo) Simulation;ARL;n
+hu2015;ijpr;EconBiz;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;Markov Chain Approach;ARL;y
+hu2016;ijpr;EconBiz;Shewhart;;Variable;;y;n;Normal;not mentioned;-;n
+joghee2017;ijqrm;EconBiz;Shewhart;;Variable;;n;n;Normal;Analytically;ARL;n
+kang2013;ijpr;EconBiz;Shewhart;;Variable;;y;y;Normal, inhomogeneous normal, banana-shaped;(Monte Carlo) Simulation;ARL;n
+lee2012-1;ijpr;EconBiz;CUSUM;;Variable;Profile / Surface;y;y;Regression, Normal and Non-Normal;(Monte Carlo) Simulation;ARL;n
+leoni2015;ijpr;EconBiz;Shewhart;;Variable;Autocorrelated;y;n;Time Series Model, Normal;Analytically;ARL;n
+li2010-econbiz;ijpr;EconBiz;CUSUM;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ATS;n
+li2010-1;ijpr;EconBiz;CUSUM;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+li2010-2;ijpr;EconBiz;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Markov Chain Approach;ARL;n
+li2016;ijpr;EconBiz;Shewhart;;Variable;;n;y;Normal, t, Gamma;(Monte Carlo) Simulation, Numerical Integration;-;y
+li2020;ijpr;EconBiz;CUSUM;;Attribute;;y;y;Normal, t;(Monte Carlo) Simulation;ARL;n
+liu2013-1;ijpr;EconBiz;CUSUM;Adaptive;Variable;;n;y;Normal, t, Gamma, Chi-squared;(Monte Carlo) Simulation;ARL, comparison;n
+machado2014;ijpr;EconBiz;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;Markov Chain Approach;ARL;n
+mukherjee2015;ijpr;EconBiz;Shewhart;;Variable;;n;y;Normal, t, Gamma, Exponential, Laplace, Lognormal, Loglogistic;(Monte Carlo) Simulation;ARL;n
+nenes2014;ijpr;EconBiz;Shewhart;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;ARL, FAR;y
+pan2012;ijpr;EconBiz;Shewhart;;Variable;;n;n;Normal;Analytically;ARL;y
+qu2017-1;ijpr;EconBiz;CUSUM;;Variable;TBE;n;n;Exponential;Markov Chain Approach, Numerical Integration;ATS;n
+quinino2015;jors;EconBiz;Shewhart;;Variable and Attribute;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+safaei2015;ijpr;EconBiz;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ATS;y
+seif2015;ijpr;EconBiz;Shewhart;Adaptive;Variable;;n;n;Burr;(Monte Carlo) Simulation;ATS,  FAR;y
+shen2013;ijpr;EconBiz;EWMA;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+tran2016;ijpr;EconBiz;Shewhart;;Variable;;y;n;Normal;Analytically;ARL, overall;n
+wei2016;ijpr;EconBiz;Shewhart;;Variable;;y;n;Normal, t, Gamma;(Monte Carlo) Simulation, Analytically;ARL;n
+wu2010-econbiz;ijpr;EconBiz;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;Numerical Integration, Analytically;ARL, overall, comparison;n
+wu2014;ijpr;EconBiz;CCPR;;Variable;;n;y;-;(Monte Carlo) Simulation;classification;n
+yang2012;ijpr;EconBiz;Shewhart, CUSUM;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Analytically;ATS, overall, comparison;n
+yang2015;ijpr;EconBiz;EWMA;;Variable;TBE;n;n;Exponential;Numerical Integration;ATS;n
+yeh2012;ijpr;EconBiz;EWMA;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL, comparison;n
+zhang2012;ijpr;EconBiz;Shewhart;;Attribute;;n;n;Geometric;Analytically;ARL, FAR;n
+zhong2016;ijpr;EconBiz;Shewhart;;Attribute;Profile / Surface;y;y;Regression;Markov Chain Approach;-;y
+carlucci2018;md;Emerald;Shewhart;;Attribute;;n;n;Poisson;not mentioned;-;n
+ercanteksen2018;jeim;Emerald;Shewhart;;Variable;;n;n;Normal;not mentioned;-;n
+chen2011-jstor;jors;JSTOR;Shewhart;;Variable;;n;n;Burr, Normal;(Monte Carlo) Simulation;ATS;y
+abbas2018;cie;ScienceDirect;CUSUM, EWMA;;Variable;;n;n;Normal, t, Gamma, Logistic;(Monte Carlo) Simulation;ARL;n
+abbasi2012;cie;ScienceDirect;CUSUM;;Variable;;n;n;Normal;Markov Chain Approach;ARL;n
+abdella2020;cie;ScienceDirect;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;FAR;n
+adegoke2017;cie;ScienceDirect;EWMA;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation, Numerical Integration;ARL, overall, comparison;n
+adegoke2018;cie;ScienceDirect;CUSUM;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+ahmad2013;ijpe;ScienceDirect;Shewhart;;Variable;Auxiliary;y;n;Normal, Gamma;(Monte Carlo) Simulation, Numerical Integration;ATS, overall;n
+ahmad2014;cie;ScienceDirect;Shewhart;;Variable;Auxiliary;y;n;Normal, t;(Monte Carlo) Simulation, Numerical Integration;ARL, overall, comparison;n
+ali2016;cie;ScienceDirect;Shewhart;;Variable;TBE;n;n;Exponential, Rayleigh, Weibull, Burr type XII, Pareto, Gompertz;Numerical Integration, Analytically;ARL, overall, comparison;n
+aliverdi2013;ijpm;ScienceDirect;Shewhart;;Variable;;n;n;Normal, Exponential, Weibull, Lognormal;Analytically;PM;n
+anwar2021;cie;ScienceDirect;CUSUM, EWMA;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+ayyoub2020;cie;ScienceDirect;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation, Analytically;ARL;n
+bayer2018;cie;ScienceDirect;Shewhart;;Attribute;;n;n;Beta;(Monte Carlo) Simulation;ARL;n
+bersimis2014;ejor;ScienceDirect;Shewhart;;Attribute;;n;n;Negative Binomial;Markov Chain Approach;ASS;n
+bezerra2017;ijpe;ScienceDirect;Shewhart;;Variable and Attribute;;n;n;Normal, Multinomial;Analytically;ARL;y
+canertestik2020;cie;ScienceDirect;Shewhart, EWMA;;Variable;;n;n;Normal;Numerical Integration;ARL;n
+celano2013;cie;ScienceDirect;Shewhart, CUSUM, EWMA;;Variable;;n;n;Normal;Markov Chain Approach;ARL, overall;n
+celano2016;cie;ScienceDirect;Shewhart;;Variable;;n;y;Normal, Uniform, Laplace, Logistic;Analytically;FAR;n
+chen2015;trpb;ScienceDirect;Shewhart, EWMA;;Variable;Autocorrelated;y;n;Regression, Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+chen2020;cie;ScienceDirect;Shewhart, EWMA;;Variable;Profile / Surface, Autocorrelated;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+cheng2011;cie;ScienceDirect;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+chew2015;cie;ScienceDirect;Shewhart;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;ATS;n
+chiu2021;cie;ScienceDirect;CCPR;;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation, Analytically;ARL, classification;n
+choi2020;cii;ScienceDirect;Shewhart;;Variable;;n;n;Normal;Analytically;PCA;n
+chong2014;cie;ScienceDirect;Shewhart;Synthetic;Variable and Attribute;;n;n;Binomial;(Monte Carlo) Simulation;ARL;n
+chong2016;cie;ScienceDirect;Shewhart;;Variable;;n;y;Normal, Laplace, Cauchy, Uniform, Exponential;(Monte Carlo) Simulation;ARL;n
+chong2018;cie;ScienceDirect;Shewhart;;Variable;;n;y;Normal, Laplace, Cauchy, Exponential;(Monte Carlo) Simulation;ARL;n
+colin2014;ome;ScienceDirect;Shewhart;;Variable;;n;n;Lognormal;(Monte Carlo) Simulation;PM;n
+colin2015;dss;ScienceDirect;Shewhart;;Variable;;y;n;Beta;(Monte Carlo) Simulation;PM;n
+colin2015-1;ijpm;ScienceDirect;Shewhart, CUSUM;;Variable;;n;n;Normal;(Monte Carlo) Simulation;PM;n
+costa2011;ijpe;ScienceDirect;Shewhart;Adaptive;Variable;Autocorrelated;n;n;Time Series Model, Normal;Markov Chain Approach;ATS;n
+costa2016;cie;ScienceDirect;Shewhart;Adaptive, Synthetic;Variable and Attribute;;n;n;Normal;Markov Chain Approach;ARL, overall;n
+costa2017;cie;ScienceDirect;EWMA;Adaptive;Variable;Autocorrelated;n;n;Time Series Model, Normal;Markov Chain Approach;ARL;y
+delatorregutierrez2016;cie;ScienceDirect;CCPR;;Variable;;n;n;Normal;(Monte Carlo) Simulation;classification;n
+du2011;cie;ScienceDirect;Shewhart;;Variable;;y;n;Normal;Analytically;classification;n
+du2013;cie;ScienceDirect;CCPR;;Variable;;n;n;Normal;(Monte Carlo) Simulation;classification;n
+du2013-1;ijpe;ScienceDirect;Shewhart;;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+faraz2013;ejor;ScienceDirect;Shewhart;;Variable;;y;n;Normal;Analytically;ARL;y
+filho2020;ejor;ScienceDirect;Shewhart;;Variable;Autocorrelated;y;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+franco2014;ijpe;ScienceDirect;Shewhart;;Variable;Autocorrelated;n;n;Time Series Model, Normal;Analytically;ARL;y
+guardiola2014;trpb;ScienceDirect;Shewhart, EWMA;;Variable;Profile / Surface;y;n;Regression, Normal;not mentioned;-;n
+guh2010;cie;ScienceDirect;CCPR;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL, classification;n
+guo2015;cie;ScienceDirect;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;Analytically;ARL;n
+hadian2019;cie;ScienceDirect;Shewhart;;Variable;;y;n;Normal;Analytically;PCA, PM;n
+hadian2021;cie;ScienceDirect;Shewhart;;Variable;;n;n;Normal, Weibull;(Monte Carlo) Simulation;ARL;y
+haq2018;cie;ScienceDirect;EWMA;Adaptive;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2019;cie;ScienceDirect;EWMA;Adaptive;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2019-1;cie;ScienceDirect;CUSUM;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL, overall, comparison;n
+haridy2012;cie;ScienceDirect;Shewhart;Synthetic;Variable and Attribute;;n;n;Binomial;Analytically;overall;n
+haridy2021;cie;ScienceDirect;Shewhart;;Attribute;;n;n;Binomial, Beta;Analytically;ATS,  comparison;n
+harrou2015;cie;ScienceDirect;CUSUM;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+he2016;cie;ScienceDirect;EWMA;;Attribute;Autocorrelated;y;n;Time Series Model, Normal, Binomial;(Monte Carlo) Simulation;ASS;n
+he2019;cie;ScienceDirect;Shewhart;;Variable;TBE;n;n;Normal, Exponential, Poisson;Markov Chain Approach;-;y
+ho2016;ijpe;ScienceDirect;Shewhart;;Variable and Attribute;;n;n;Normal;Markov Chain Approach;ARL;y
+huda2014;ejor;ScienceDirect;EWMA;;Variable;;y;n;Normal;not mentioned;-;n
+huwang2014;cie;ScienceDirect;EWMA;;Variable;Profile / Surface;n;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+huwang2015;cie;ScienceDirect;EWMA;;Variable and Attribute;Profile / Surface;y;n;Regression, Normal, Multinomial;(Monte Carlo) Simulation;ARL;n
+khaw2018;cie;ScienceDirect;Shewhart;Adaptive;Variable;;y;n;Normal;Markov Chain Approach;ATS, overall;n
+khediri2011;cie;ScienceDirect;Shewhart;Adaptive;Variable;;y;y;-;not mentioned;FAR;n
+khedmati2016;cie;ScienceDirect;EWMA;;Variable;Profile / Surface, Autocorrelated;y;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+khoo2013-1;ijpe;ScienceDirect;Shewhart;;Variable;;n;n;Normal;Numerical Integration;ARL, ASS, overall;n
+khoo2013-2;cie;ScienceDirect;Shewhart;Synthetic;Variable and Attribute;;y;n;Normal;Markov Chain Approach;ARL, ASS;n
+kim2019;cie;ScienceDirect;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+kosztyan2018;cie;ScienceDirect;Shewhart;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;-;y
+lee2012;ijpe;ScienceDirect;Shewhart;Adaptive;Variable;;n;n;Normal;Analytically;ATS;y
+lee2013;ejor;ScienceDirect;Shewhart;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;overall, comparison;n
+leeho2013;ijpe;ScienceDirect;Shewhart;;Attribute;;n;n;Binomial, Normal;Analytically;ARL;y
+leoni2015;ejor;ScienceDirect;Shewhart;;Variable;Autocorrelated;y;n;Time Series Model, Normal;Analytically;ARL;n
+leoni2018;cie;ScienceDirect;Shewhart;;Attribute;;y;n;Binomial, Normal;Analytically;ARL;n
+li2010-sciencedirect;cie;ScienceDirect;EWMA;Adaptive;Variable;Profile / Surface;n;n;Regression, Normal;(Monte Carlo) Simulation;ATS;n
+li2016-sciencedirect;cie;ScienceDirect;EWMA;;Variable;;y;n;Normal, t, Gamma, Chi-squared;(Monte Carlo) Simulation;ARL;n
+li2020-sciencedirect;cie;ScienceDirect;Shewhart;;Variable;;n;y;Normal, Laplace, Exponential;(Monte Carlo) Simulation;FAR;n
+lim2015;cie;ScienceDirect;Shewhart;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;ATS, overall;n
+lim2017;cie;ScienceDirect;Shewhart;;Variable;;y;n;Normal;Markov Chain Approach, Numerical Integration;ARL, overall;n
+lin2011;cie;ScienceDirect;CCPR;;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL, classification;n
+liu2013;ejor;ScienceDirect;Shewhart;;Variable;;n;n;Normal;Markov Chain Approach;-;y
+lu2016;cie;ScienceDirect;Shewhart;;Variable;;n;y;Normal, t, Exponential;not mentioned;-;n
+lu2020;cie;ScienceDirect;CCPR;;Variable;;y;n;Normal;(Monte Carlo) Simulation;classification;n
+mashuri2021;cie;ScienceDirect;Shewhart;;Variable;;y;n;Normal, Gamma;(Monte Carlo) Simulation;FAR, classification;n
+mehmood2020;cie;ScienceDirect;CUSUM;;Variable;;y;n;Normal;(Monte Carlo) Simulation, Numerical Integration;ARL, overall, comparison, PCA;n
+mehrafrooz2011;cie;ScienceDirect;Shewhart;;Variable;;n;n;Normal;Analytically;-;y
+mingchan2021;cie;ScienceDirect;EWMA;;Variable;;n;y;Normal, Laplace, Exponential;(Monte Carlo) Simulation;ARL;n
+mitra2019;ejor;ScienceDirect;EWMA;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+mohammadzadeh2021;cie;ScienceDirect;Shewhart, EWMA;Adaptive;Variable and Attribute;Profile / Surface;y;n;Regression, Normal, Multinomial;(Monte Carlo) Simulation;ATS;n
+muhammad2018;cie;ScienceDirect;EWMA;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;ARL, ASS, overall;n
+mukherjee2017;ejor;ScienceDirect;Shewhart;Adaptive;Variable;;n;y;Normal, Laplace, Uniform, Exponential, Lognormal, Cauchy;(Monte Carlo) Simulation;ARL, FAR;n
+najjartabarbisheh2021;cie;ScienceDirect;EWMA;;Variable;Autocorrelated;n;n;Time Series Model, Normal, Inverse Normal;not mentioned;-;n
+nenes2011;ijpe;ScienceDirect;Shewhart, CUSUM, EWMA;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;-;y
+nguyen2020;ejor;ScienceDirect;EWMA;;Variable;;y;n;Normal;Markov Chain Approach;ARL, overall;n
+nikolaidis2014;ejor;ScienceDirect;Shewhart;;Variable;;n;n;Normal;not mentioned;-;n
+noorossana2010-sciencedirect;cie;ScienceDirect;EWMA;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+ou2011-sciencedirect;ijpe;ScienceDirect;Shewhart;Adaptive;Variable;;n;n;Normal;Markov Chain Approach, Numerical Integration;overall, comparison;n
+ou2012-1;ijpe;ScienceDirect;Shewhart, CUSUM, EWMA;Adaptive;Variable;;n;n;Normal;Markov Chain Approach, Numerical Integration;overall, comparison;n
+padhi2011;jpsm;ScienceDirect;Shewhart;;Variable;;n;n;Normal;not mentioned;-;n
+pandey2011;cie;ScienceDirect;Shewhart;;Variable;;n;n;Normal;Analytically;ARL;y
+pelegrina2016;cie;ScienceDirect;CCPR;;Variable;;y;y;-;(Monte Carlo) Simulation;classification;n
+qi2016;cie;ScienceDirect;EWMA;;Variable;Profile / Surface;n;y;Regression;(Monte Carlo) Simulation;ARL, comparison;n
+qu2013;ijpe;ScienceDirect;CUSUM;;Variable;TBE;n;n;Normal, Exponential;Numerical Integration;ATS, comparison;n
+quinino2019;cie;ScienceDirect;Shewhart;;Attribute;;n;n;Truncated Normal;(Monte Carlo) Simulation;ARL;n
+sabahno2020;cie;ScienceDirect;Shewhart;Adaptive;Variable;;y;n;Normal;Markov Chain Approach;ARL, ATS, ASS;n
+saeed2018;cie;ScienceDirect;EWMA;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL, overall, comparison;n
+sales2019;cie;ScienceDirect;Shewhart;;Attribute;Autocorrelated;n;n;Time Series Model, Poisson;(Monte Carlo) Simulation;ARL;n
+salmasnia2018;cie;ScienceDirect;Shewhart;Adaptive;Variable;;y;n;Normal;Markov Chain Approach;ATS;y
+salmasnia2018-1;cie;ScienceDirect;Shewhart;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;FAR;y
+sanchez-marquez2020;cii;ScienceDirect;Shewhart;;Variable;;y;n;Regression;not mentioned;-;n
+sanchez-marquez2021;cie;ScienceDirect;Shewhart;;Variable;;n;n;Normal, Chi-Squared;(Monte Carlo) Simulation;ARL;n
+sanusi2017;cie;ScienceDirect;Shewhart, CUSUM;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation, Numerical Integration;ARL;n
+sanusi2017-1;cie;ScienceDirect;EWMA;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation, Numerical Integration;ARL, overall, comparison;n
+sanusi2019;cie;ScienceDirect;EWMA;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+sanusi2020;cie;ScienceDirect;EWMA;;Variable;TBE;n;n;Gamma, Exponential;(Monte Carlo) Simulation;ARL;n
+sheu2012;cie;ScienceDirect;memory-type;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+shu2011;cie;ScienceDirect;Shewhart;;Variable;;n;n;Normal;not mentioned;-;n
+simoes2016;cie;ScienceDirect;Shewhart;Synthetic;Variable and Attribute;Autocorrelated;y;n;Time Series Model, Normal;Markov Chain Approach;ARL, overall;n
+song2018;ejor;ScienceDirect;Shewhart;Adaptive;Variable;;n;y;Normal, Uniform, Laplace, Cauchy, Gumbel, Exponential;(Monte Carlo) Simulation, Numerical Integration;ARL, overall;n
+song2020-1;ejor;ScienceDirect;Shewhart;Adaptive;Variable;;y;y;Normal, t, Exponential, Copula;(Monte Carlo) Simulation;ARL;n
+sun2012;ijpe;ScienceDirect;Shewhart;;Attribute;;n;n;Binomial;not mentioned;-;y
+tang2019;cie;ScienceDirect;EWMA;Adaptive;Variable;;n;y;Normal, t, Laplace, Logistic, Contaminated Normal;(Monte Carlo) Simulation, Markov Chain Approach;ARL, comparison;n
+teh2011;cie;ScienceDirect;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+teoh2014;cie;ScienceDirect;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Numerical Integration;ARL, ASS;n
+teoh2016;cie;ScienceDirect;Shewhart;;Variable;;n;n;Normal;Markov Chain Approach;ARL, overall;n
+tomohiro2019;ijpe;ScienceDirect;Shewhart;;Variable;;n;n;Normal;not mentioned;-;n
+trovato2010;cie;ScienceDirect;Shewhart, CUSUM, EWMA;;Variable;;n;n;Normal;Analytically;-;y
+votto2020;cie;ScienceDirect;Shewhart;;Variable;;y;n;Triangular, Uniform;(Monte Carlo) Simulation;PM;n
+wang2015-sciencedirect;ejor;ScienceDirect;Shewhart, CUSUM, EWMA;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+wang2017;cie;ScienceDirect;EWMA;;Variable;Profile / Surface, Autocorrelated;n;n;Regression, Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+wang2021;cie;ScienceDirect;EWMA;;Attribute;;n;n;Poisson;Markov Chain Approach, Analytically;ARL, overall;n
+wu2010-1;ejor;ScienceDirect;CUSUM;;Variable;;n;n;Normal;Markov Chain Approach;ATS, overall, comparison;n
+wu2011;ijpe;ScienceDirect;Shewhart, CUSUM;;Variable;;n;n;Normal;Numerical Integration;ARL, ATS, overall, comparison;n
+xanthopoulos2014;cie;ScienceDirect;CCPR;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL, classification;n
+xiang2013;ejor;ScienceDirect;Shewhart;;Variable;;n;n;Normal;Markov Chain Approach;-;y
+xiang2019;cie;ScienceDirect;EWMA;;Variable;Profile / Surface;y;y;Regression;(Monte Carlo) Simulation;ARL;n
+xie2013;cie;ScienceDirect;CCPR;;Variable;;n;n;Normal;(Monte Carlo) Simulation;classification;n
+yeganeh2021;cie;ScienceDirect;EWMA;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+yeong2013;ejor;ScienceDirect;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;Analytically;ARL;y
+zafar2018;cie;ScienceDirect;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL, overall, comparison;n
+zaman2020;cie;ScienceDirect;CUSUM, EWMA;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL, overall, comparison;n
+zavala2018;ijpe;ScienceDirect;Shewhart;;Attribute;;n;n;Binomial;not mentioned;-;n
+zhang2011-sciencedirect;cie;ScienceDirect;Shewhart;;Variable;TBE;n;n;Exponential;Analytically;ATS;y
+zhang2014;cie;ScienceDirect;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+zhang2015;cie;ScienceDirect;EWMA;;Variable;;y;y;Normal, t, Gamma;(Monte Carlo) Simulation;ARL;n
+zhang2015-1;cie;ScienceDirect;Shewhart;;Variable;Profile / Surface;y;n;Regression, Normal;Analytically;FAR;n
+zhang2017;cie;ScienceDirect;EWMA;;Variable;;n;y;Normal, Chi-Squared, Laplace, Lognormal;(Monte Carlo) Simulation;ARL;n
+zhang2021;cie;ScienceDirect;EWMA;;Variable;TBE;n;y;Normal, Gamma, Exponential, Weibull;(Monte Carlo) Simulation;ARL, overall, comparison;n
+zhou2011;ijpe;ScienceDirect;Shewhart;Adaptive;Attribute;;n;n;Binomial;Markov Chain Approach;ARL, ASS;n
+zhou2019-1;cie;ScienceDirect;Shewhart;;Attribute;;n;n;Binomial;Analytically;ARL;y
+zhou2020-sciencedirect;cie;ScienceDirect;Shewhart, CUSUM, EWMA;;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+abbasi2010;qe;Taylor&Francis;EWMA;;Variable;Profile / Surface;n;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+abdella2019;jqt;Taylor&Francis;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+adeoti2016;qe;Taylor&Francis;memory-type;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+atalay2019;qe;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+bell2014;tc;Taylor&Francis;Shewhart;;Variable;;y;y;Normal, t;(Monte Carlo) Simulation;FAR;n
+bui2017;tc;Taylor&Francis;Shewhart;;Variable;Autocorrelated;y;y;Time Series Model;(Monte Carlo) Simulation;FAR;n
+bui2018;jqt;Taylor&Francis;Shewhart;;Variable;Profile / Surface, Autocorrelated;n;n;Regression, Normal;(Monte Carlo) Simulation;FAR;n
+capizzi2010;jqt;Taylor&Francis;CUSUM;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+capizzi2011;tc;Taylor&Francis;EWMA;;Variable;Profile / Surface;y;y;Regression, Normal;(Monte Carlo) Simulation;ARL, comparison;n
+capizzi2012;jqt;Taylor&Francis;EWMA;Adaptive;Variable;Autocorrelated;n;y;Normal, t, Gamma, Beta;(Monte Carlo) Simulation;ARL;n
+capizzi2013;jqt;Taylor&Francis;Shewhart;;Variable;;n;y;Normal, t, Exponential, Gamma, Beta, Poisson;(Monte Carlo) Simulation;FAR;n
+capizzi2015;iise;Taylor&Francis;Shewhart, EWMA;Adaptive;Variable;Autocorrelated;y;y;Normal;(Monte Carlo) Simulation;ARL;n
+capizzi2017;tc;Taylor&Francis;Shewhart;;Variable;;y;y;Regression, Normal, t, Gamma, Poisson;(Monte Carlo) Simulation;FAR;n
+castagliola2011-taylor;jqt;Taylor&Francis;EWMA;;Variable;;n;n;Normal;Markov Chain Approach;ARL, overall;n
+castagliola2015;iise;Taylor&Francis;EWMA;;Variable;;n;n;Normal;Markov Chain Approach, Numerical Integration;ARL;n
+castagliola2019;jqt;Taylor&Francis;EWMA;;Variable;;n;y;-;Markov Chain Approach;ARL;n
+centafonti2021;tc;Taylor&Francis;Shewhart;;Variable;Profile / Surface;y;y;Regression;(Monte Carlo) Simulation;ARL;n
+chen2015-taylor;jqt;Taylor&Francis;EWMA;Adaptive;Attribute;;y;n;Poisson, Log-Normal;(Monte Carlo) Simulation;ATS, overall;n
+chen2015-1;tc;Taylor&Francis;EWMA;;Variable;;y;y;Normal, t, Gamma;(Monte Carlo) Simulation, Analytically;ARL, FAR;n
+chen2015-2;tc;Taylor&Francis;CUSUM;;Variable and Attribute;;n;n;Poisson, Exponential;Markov Chain Approach;ARL;n
+chen2015-3;jqt;Taylor&Francis;Shewhart;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation;classification;n
+chong2019-taylor;qe;Taylor&Francis;Shewhart;;Variable;;n;y;Normal, Laplace, Cauchy, Uniform, Exponential;(Monte Carlo) Simulation;ARL;n
+colosimo2014;jqt;Taylor&Francis;Shewhart;;Variable;Profile / Surface, Autocorrelated;y;n;Regression, Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+dasdemir2016;qe;Taylor&Francis;Shewhart;;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+deng2012;jqt;Taylor&Francis;Shewhart;;Variable and Attribute;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+dickinson2014;jqt;Taylor&Francis;CUSUM;;Variable;;n;n;Weibull;(Monte Carlo) Simulation;ARL;n
+diko2017;qe;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;Numerical Integration, Analytically;ARL, FAR;n
+dong2019;tc;Taylor&Francis;Shewhart;;Attribute;;y;n;Poisson;(Monte Carlo) Simulation;ARL;n
+elhabashy2020;qe;Taylor&Francis;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;y
+epprecht2015;jqt;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;Analytically;ARL, FAR;n
+fan2021;jqt;Taylor&Francis;Shewhart;;Variable;;y;y;Normal, t, Gamma;(Monte Carlo) Simulation;FAR;n
+goedhart2017;iise;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Analytically;ARL, FAR;n
+goedhart2017-1;jqt;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Analytically;ARL;n
+goedhart2020;jqt;Taylor&Francis;Shewhart;;Variable;;n;y;Normal, t, Chi-squared, Lognormal;(Monte Carlo) Simulation;ARL, FAR;n
+graham2011;qe;Taylor&Francis;EWMA;;Variable;;n;y;Normal, t, Gamma, Laplace, Logistic, contaminated Normal;Markov Chain Approach;ARL;n
+grasso2016;jqt;Taylor&Francis;Shewhart;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+guo2012;jqt;Taylor&Francis;CUSUM, EWMA;;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+haridy2019;ijpr;Taylor&Francis;EWMA;;Attribute;;n;n;Binomial;Markov Chain Approach, Numerical Integration;ARL, overall;n
+hawkins2010;jqt;Taylor&Francis;Shewhart;;Variable;;n;y;-;(Monte Carlo) Simulation;ARL;n
+hawkins2014;qe;Taylor&Francis;CUSUM, EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+huang2012;jqt;Taylor&Francis;CUSUM;;Attribute;;n;n;Binomial;(Monte Carlo) Simulation;ASS;n
+huang2016;iise;Taylor&Francis;CUSUM;Adaptive;Variable;;n;n;Normal;Numerical Integration;ARL;n
+jardim2020;jqt;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Numerical Integration, Analytically;ARL, FAR;n
+jiang2011;jqt;Taylor&Francis;CUSUM;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+jiang2012;jqt;Taylor&Francis;EWMA;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+jin2010;iise;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;Analytically;ARL, ATS;y
+jones-farmer2010;jqt;Taylor&Francis;Shewhart;;Variable;;n;y;Normal, t, Gamma;(Monte Carlo) Simulation;FAR;n
+keefe2015;qe;Taylor&Francis;Shewhart, CUSUM;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+khoo2010;iise;Taylor&Francis;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;(Monte Carlo) Simulation;ARL, ASS;n
+knoth2016;jqt;Taylor&Francis;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;Markov Chain Approach, Numerical Integration;ARL;n
+knoth2017;jqt;Taylor&Francis;EWMA;;Variable;;y;n;Normal;(Monte Carlo) Simulation, Markov Chain Approach, Numerical Integration;ARL;n
+knoth2022;qe;Taylor&Francis;memory-type, EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+krupskii2019;jqt;Taylor&Francis;Shewhart;;Variable;Autocorrelated;y;y;Copula, Time Series Model;(Monte Carlo) Simulation;FAR;n
+kumar2017;jqt;Taylor&Francis;Shewhart;;Variable;TBE;n;n;Gamma;(Monte Carlo) Simulation, Markov Chain Approach, Analytically;ARL, FAR;n
+lee2011-taylor;jqt;Taylor&Francis;Shewhart;;Variable;Profile / Surface, Autocorrelated;y;n;Regression, Time Series Model, Normal;(Monte Carlo) Simulation;misc.;n
+li2010;jqt;Taylor&Francis;CUSUM, EWMA;;Variable;;n;y;Normal, t, Gamma;(Monte Carlo) Simulation;ARL;n
+li2012;jqt;Taylor&Francis;EWMA;;Attribute;;y;n;Multinomial;(Monte Carlo) Simulation;ARL;n
+li2013;iise;Taylor&Francis;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+li2013-1;jqt;Taylor&Francis;EWMA;;Variable;;y;y;Normal, t, Gamma;(Monte Carlo) Simulation;ARL;n
+li2014;tc;Taylor&Francis;CUSUM;Adaptive;Variable;Autocorrelated;n;y;Times Series Model, Normal;(Monte Carlo) Simulation;ARL, ATS, comparison;n
+li2017;tc;Taylor&Francis;Shewhart;;Variable;Profile / Surface, Autocorrelated;y;n;Regression, Normal;not mentioned;-;n
+li2019;iise;Taylor&Francis;CUSUM;;Variable;Autocorrelated;y;y;Time Series Model, Normal, t;(Monte Carlo) Simulation;ARL;n
+li2021;jqt;Taylor&Francis;CUSUM;Adaptive;Variable;;n;y;-;(Monte Carlo) Simulation;ARL;n
+li2021-1;jqt;Taylor&Francis;Shewhart;;Variable;Autocorrelated;y;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+liang2016;jqt;Taylor&Francis;EWMA;;Variable;;y;y;Normal, t, Gamma, Poisson;(Monte Carlo) Simulation;ARL;n
+liu2015;tc;Taylor&Francis;CUSUM;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL, misc.;n
+liu2018;jqt;Taylor&Francis;EWMA;;Attribute;Profile / Surface;n;n;Regression, Bernoulli;(Monte Carlo) Simulation;ARL;n
+maboudou2011;jqt;Taylor&Francis;EWMA;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+mahmoud2010;jqt;Taylor&Francis;Shewhart;;Variable;;y;n;Normal;not mentioned;-;n
+mccracken2013;jqt;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+menafoglio2018;tc;Taylor&Francis;Shewhart;;Variable;Profile / Surface, Autocorrelated;y;n;Normal, Lognormal, Chi-squared;(Monte Carlo) Simulation;-;n
+mosquera2020;qe;Taylor&Francis;Shewhart;Adaptive;Variable and Attribute;;n;n;Normal;(Monte Carlo) Simulation;ARL, ASS;n
+mukherjee2022;jqt;Taylor&Francis;Shewhart;;Variable;;y;y;Normal, t, Cauchy, Exponential, Copula;(Monte Carlo) Simulation;ARL, FAR;n
+nabhan2020;jqt;Taylor&Francis;CUSUM;Adaptive;Variable;Autocorrelated;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+nazir2013;qe;Taylor&Francis;CUSUM;;Variable;;n;n;Normal, t, Logistic, Chi-squared;(Monte Carlo) Simulation;ARL;n
+ning2012;iise;Taylor&Francis;Shewhart;;Variable;;y;y;Normal and Non-Normal;(Monte Carlo) Simulation;ARL;n
+ning2013;iise;Taylor&Francis;Shewhart;;Variable;;y;y;Normal and Non-Normal;(Monte Carlo) Simulation;ARL;n
+pascual2010;jqt;Taylor&Francis;EWMA;;Variable;;n;n;Weibull;(Monte Carlo) Simulation;ARL;n
+pascual2019;jqt;Taylor&Francis;CUSUM, EWMA;;Attribute;;y;n;Poisson, Copula;(Monte Carlo) Simulation;ARL;n
+paynabar2012;jqt;Taylor&Francis;Shewhart;;Variable and Attribute;Profile / Surface, Autocorrelated;y;n;Regression, Bernoulli;(Monte Carlo) Simulation;FAR;n
+perry2019;jqt;Taylor&Francis;EWMA;;Attribute;Autocorrelated;y;n;Multinomial;(Monte Carlo) Simulation, Markov Chain Approach;ARL, comparison;n
+perry2020;jqt;Taylor&Francis;CUSUM;;Variable;Autocorrelated;n;y;Time Series Model, Normal, Exponential;(Monte Carlo) Simulation, Analytically;ARL;n
+qiu2010;tc;Taylor&Francis;EWMA;;Variable;Profile / Surface, Autocorrelated;y;y;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+qiu2011;tc;Taylor&Francis;CUSUM;;Variable;Autocorrelated;n;y;Normal, Chi-squared;(Monte Carlo) Simulation;ARL;n
+qiu2014-taylor;tc;Taylor&Francis;CUSUM;Adaptive;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL, ATS, ASS;n
+qiu2017;tc;Taylor&Francis;EWMA;Adaptive;Variable;Profile / Surface, Autocorrelated;n;y;-;(Monte Carlo) Simulation;ATS, comparison, classification;n
+qiu2019-1;tc;Taylor&Francis;CUSUM;;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation;ATS, classification;n
+qiu2021;tc;Taylor&Francis;CUSUM;;Variable;Autocorrelated;y;y;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+rahali2019;qe;Taylor&Francis;Shewhart;;Variable;TBE;n;n;Normal, Lognormal, Gamma, Weibull;Analytically;ATS, overall;n
+reynolds2010;jqt;Taylor&Francis;Shewhart;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation, Numerical Integration;ATS, overall;n
+reynolds2013;jqt;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ATS, overall;n
+richards2014;tc;Taylor&Francis;Shewhart, CUSUM, EWMA;Adaptive;Attribute;;n;n;Poisson;(Monte Carlo) Simulation;ARL;n
+ross2011;tc;Taylor&Francis;Shewhart;;Variable;;n;y;Normal, t, Lognormal;(Monte Carlo) Simulation;ARL;n
+ross2012;jqt;Taylor&Francis;Shewhart;;Variable;;n;y;Normal, t, Lognormal;(Monte Carlo) Simulation;ARL;n
+ryan2011;jqt;Taylor&Francis;CUSUM;;Attribute;;y;n;Multinomial;Markov Chain Approach;ARL;n
+ryan2010;jqt;Taylor&Francis;CUSUM, EWMA;Adaptive;Attribute;;n;n;Poisson;(Monte Carlo) Simulation;ARL;n
+ryu2010;jqt;Taylor&Francis;CUSUM;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Markov Chain Approach, Numerical Integration;ARL, overall, comparison;n
+saleh2015;jqt;Taylor&Francis;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+saleh2015-1;jqt;Taylor&Francis;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+saleh2016;qe;Taylor&Francis;CUSUM;;Variable;;n;n;Normal;Markov Chain Approach;ARL;n
+santiago2013;qe;Taylor&Francis;Shewhart;;Variable;TBE;n;n;Exponential;Markov Chain Approach;ARL;n
+schoonhoven2011;jqt;Taylor&Francis;Shewhart;;Variable;;n;n;Normal, contaminated Normal, Chi-Squared;(Monte Carlo) Simulation, Analytically;ARL;n
+schoonhoven2011-1;jqt;Taylor&Francis;Shewhart;;Variable;;n;n;Normal, contaminated Normal;(Monte Carlo) Simulation, Analytically;ARL, FAR;n
+schuh2013;jqt;Taylor&Francis;CUSUM;;Variable and Attribute;TBE;n;n;Poisson, Exponential;(Monte Carlo) Simulation;ATS;n
+shang2011;jqt;Taylor&Francis;EWMA;;Variable and Attribute;Profile / Surface;y;n;Regression, Normal, Bernoulli;(Monte Carlo) Simulation;ARL;n
+shen2015;tc;Taylor&Francis;EWMA;Adaptive;Attribute;;n;n;Poisson;(Monte Carlo) Simulation, Analytically;ARL;n
+shu2010;jqt;Taylor&Francis;CUSUM;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;ARL;n
+shu2012;iise;Taylor&Francis;EWMA;;Attribute;;n;n;Poisson, Normal;Markov Chain Approach;ARL;n
+sparks2010;iise;Taylor&Francis;CUSUM, EWMA;Adaptive;Attribute;Autocorrelated;n;n;Regression, Time Series Model, Normal and Non-Normal, Poisson;(Monte Carlo) Simulation;ATS;n
+sparks2018;jqt;Taylor&Francis;EWMA;;Attribute;;n;n;Poisson;(Monte Carlo) Simulation;ATS;n
+sparks2019;qe;Taylor&Francis;EWMA;;Variable;TBE;n;y;Exponential, Gamma, Weibull;(Monte Carlo) Simulation;misc.;n
+szarka2012;jqt;Taylor&Francis;CUSUM;;Attribute;;n;n;Bernoulli, Geometric;(Monte Carlo) Simulation, Markov Chain Approach;ASS;n
+tran2015;ijpr;Taylor&Francis;Shewhart;;Variable;;y;n;Normal;Markov Chain Approach, Numerical Integration;ARL, overall;n
+wang2013;jqt;Taylor&Francis;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ATS;n
+wang2014;jqt;Taylor&Francis;Shewhart;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+wang2015;ijpr;Taylor&Francis;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+wang2017-taylor;tc;Taylor&Francis;Shewhart;;Variable;Profile / Surface, Autocorrelated;y;n;Regression, Normal;(Monte Carlo) Simulation;FAR;n
+wang2018;jqt;Taylor&Francis;CUSUM;Adaptive;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+weiss2011;iise;Taylor&Francis;CUSUM;;Attribute;Autocorrelated;n;n;Time Series Model, Poisson;Markov Chain Approach, Numerical Integration;ARL;n
+weiss2012;jqt;Taylor&Francis;CUSUM;;Attribute;Autocorrelated;n;n;Time Series Model, Poisson;(Monte Carlo) Simulation, Markov Chain Approach;ARL;n
+weiss2015;iise;Taylor&Francis;Shewhart;;Attribute;Autocorrelated;n;n;Time Series Model, Poisson, Binomial;Markov Chain Approach;ARL;n
+woodall2019;qe;Taylor&Francis;Shewhart, CUSUM, EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Analytically;ARL;n
+xian2017;tc;Taylor&Francis;CUSUM;Adaptive;Variable;;y;y;Normal, Non-Normal;(Monte Carlo) Simulation;-;n
+xian2019;jqt;Taylor&Francis;CUSUM;;Variable;;y;y;Normal, t, Poisson;(Monte Carlo) Simulation;ARL;n
+xiang2021;jqt;Taylor&Francis;EWMA;;Attribute;;y;n;Regression, Multinomial;(Monte Carlo) Simulation;ARL;n
+xie2011;jqt;Taylor&Francis;EWMA;;Variable;TBE;y;n;Exponential;(Monte Carlo) Simulation;ARL;n
+xu2012;jqt;Taylor&Francis;Shewhart;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation, Analytically;ATS;n
+xu2018;jqt;Taylor&Francis;Shewhart, EWMA;;Variable;;n;n;Weibull;(Monte Carlo) Simulation;ARL;n
+xue2020;jqt;Taylor&Francis;CUSUM;;Variable;Autocorrelated;y;y;Times Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+yan2017;tc;Taylor&Francis;Shewhart;;Variable;Profile / Surface;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+yang2019;iise;Taylor&Francis;CUSUM;;Variable;;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+yang2020;tc;Taylor&Francis;EWMA;Adaptive;Variable;Auxiliary, Autocorrelated;y;y;Regression, Time Series Model;(Monte Carlo) Simulation;ARL;n
+yeong2017;jqt;Taylor&Francis;EWMA;Adaptive;Variable;;n;n;Normal;Markov Chain Approach, Numerical Integration;ATS;n
+you2019;tc;Taylor&Francis;EWMA;;Variable;Autocorrelated;y;y;Regression, Time Series Model, Normal, t, Gamma, Poisson;(Monte Carlo) Simulation;ATS;n
+yu2012;tc;Taylor&Francis;Shewhart;;Variable;Profile / Surface;y;y;Regression, Normal;(Monte Carlo) Simulation;FAR;n
+yu2022;jqt;Taylor&Francis;CUSUM;;Variable;Autocorrelated;y;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+zang2017;tc;Taylor&Francis;Shewhart;;Variable;Profile / Surface;y;y;Regression, Normal;(Monte Carlo) Simulation;FAR, classification;n
+zang2018;jqt;Taylor&Francis;CUSUM;;Variable;Profile / Surface;y;y;-;(Monte Carlo) Simulation;ARL;n
+zhang2011;iise;Taylor&Francis;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;Markov Chain Approach;ARL;n
+zhang2016;jqt;Taylor&Francis;Shewhart;;Variable;;y;y;Normal, t, Gamma;(Monte Carlo) Simulation;ARL, FAR;n
+zhang2018;jqt;Taylor&Francis;EWMA;;Variable;Profile / Surface, Autocorrelated;y;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+zhang2019;jqt;Taylor&Francis;EWMA;;Variable;;y;y;Normal, t, Gamma;(Monte Carlo) Simulation;ARL;n
+zhao2020;tc;Taylor&Francis;EWMA;;Variable;;y;y;-;(Monte Carlo) Simulation;ARL;n
+zou2010;jqt;Taylor&Francis;EWMA;;Variable;;n;y;Normal, t, Chi-squared;(Monte Carlo) Simulation;ARL, comparison;n
+zou2011;tc;Taylor&Francis;EWMA;;Variable;;y;y;Normal, t, Gamma;Markov Chain Approach;ARL;n
+zou2014;tc;Taylor&Francis;CUSUM;;Variable;;n;n;Normal;Markov Chain Approach;ARL;n
+zwetsloot2016;qe;Taylor&Francis;Shewhart, CUSUM, EWMA;;Variable;;n;n;Normal;Markov Chain Approach, Numerical Integration, Analytically;ARL;n
+abbas2010;qrei;Wiley;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+abbas2012;qrei;Wiley;Shewhart, EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+abbas2013;qrei;Wiley;memory-type;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+abbas2020;qrei;Wiley;EWMA;;Variable;;n;n;Normal, t, Gamma, Laplace, Exponential, Contaminated Normal, Lognormal;(Monte Carlo) Simulation;ARL;n
+abbas2020-1;qrei;Wiley;memory-type;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+abbasi2012;qrei;Wiley;memory-type;;Variable;;n;y;-;(Monte Carlo) Simulation;ARL;n
+abbasi2017;qrei;Wiley;memory-type;;Attribute;;n;n;Poisson;(Monte Carlo) Simulation;ARL;n
+abdella2016;qrei;Wiley;CUSUM;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+abid2016;qrei;Wiley;CUSUM;;Variable;;n;y;Normal, t;(Monte Carlo) Simulation;ARL;n
+adegoke2018-wiley;qrei;Wiley;EWMA;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation, Numerical Integration;ARL, overall, comparison;n
+alevizakos2018;qrei;Wiley;memory-type;;Variable;TBE;n;n;Gamma, Weibull, Lognormal;(Monte Carlo) Simulation;ARL;n
+alevizakos2020;qrei;Wiley;EWMA;;Variable;;y;y;Normal, t, Logistic, Exponential,  contaminated normal;(Monte Carlo) Simulation, Analytically;ARL, overall, comparison;n
+alevizakos2020-1;qrei;Wiley;memory-type;;Variable;TBE;n;n;Gamma, Weibull, Lognormal;(Monte Carlo) Simulation;ARL;n
+alevizakos2020-2;qrei;Wiley;memory-type;;Variable;;n;y;Normal, t, Logistic, Laplace, Contaminated Normal, Uniform;(Monte Carlo) Simulation, Analytically;ARL;n
+alevizakos2021;qrei;Wiley;memory-type;;Variable;;n;n;Normal, t, Logistic, Laplace, Gamma;(Monte Carlo) Simulation, Analytically;ARL, overall, comparison;n
+ali2021;qrei;Wiley;memory-type;;Variable;;n;y;Normal, t, Logistic, Laplace, Contaminated Normal;(Monte Carlo) Simulation;ARL;n
+aly2014;qrei;Wiley;EWMA;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+amir2020;qrei;Wiley;memory-type;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+anwar2020;qrei;Wiley;memory-type;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation, Numerical Integration;ARL, overall, comparison;n
+arshad2021;qrei;Wiley;EWMA;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+castagliola2011;qrei;Wiley;Shewhart;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;ARL, ASS;n
+castagliola2012;qrei;Wiley;Shewhart;Adaptive;Variable;;n;n;Normal;Analytically;ATS;n
+castagliola2013;qrei;Wiley;Shewhart;Synthetic;Variable and Attribute;;n;n;Poisson, Binomial;Markov Chain Approach, Analytically;ARL;n
+celano2011wiley;qrei;Wiley;Shewhart;;Variable;;n;n;Normal;Analytically;ARL;y
+celano2011-1;qrei;Wiley;Shewhart, EWMA;;Variable;;n;n;Normal;Markov Chain Approach, Analytically;ARL;n
+celano2014;qrei;Wiley;Shewhart;;Variable;;y;n;Normal;Analytically;ARL, overall;n
+chatterjee2020;qrei;Wiley;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+chatterjee2021;qrei;Wiley;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL, comparison;n
+chen2010;qrei;Wiley;Shewhart;;Variable;Autocorrelated;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+cheng2014;qrei;Wiley;Shewhart;;Variable;;y;y;Normal, t, Gamma;(Monte Carlo) Simulation;FAR, classification;n
+chong2018-wiley;qrei;Wiley;Shewhart;Adaptive;Variable;;y;n;Normal;Markov Chain Approach, Numerical Integration;ARL, ASS, overall, misc.;n
+chowdhury2014;qrei;Wiley;CUSUM;;Variable;;n;y;Normal, Cauchy, Lognormal;(Monte Carlo) Simulation;ARL;n
+dai2010;qrei;Wiley;CUSUM;Adaptive;Variable;;y;n;Normal;Markov Chain Approach, Analytically;ARL, comparison;n
+does2020;qrei;Wiley;Shewhart, CUSUM, EWMA;;Variable;;n;y;Normal;Analytically;ARL, FAR;n
+ductran2021;qrei;Wiley;EWMA;Adaptive;Variable;;n;n;Normal;Markov Chain Approach;ATS;n
+dunguyen2020;qrei;Wiley;Shewhart;;Variable;;y;n;Normal;Analytically;ARL, overall;n
+gu2013;qrei;Wiley;Shewhart;;Variable;;n;n;Normal;(Monte Carlo) Simulation, Analytically;ARL;n
+haq2013;qrei;Wiley;CUSUM, EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2013-1;qrei;Wiley;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2014;qrei;Wiley;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2014-1;qrei;Wiley;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2014-2;qrei;Wiley;EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2014-3;qrei;Wiley;CUSUM, EWMA;Synthetic;Variable and Attribute;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2017;qrei;Wiley;CUSUM, EWMA;Synthetic;Variable and Attribute;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2017-1;qrei;Wiley;EWMA;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2017-2;qrei;Wiley;EWMA;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2018;qrei;Wiley;EWMA;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2018-1;qrei;Wiley;CUSUM;Adaptive;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2018-2;qrei;Wiley;EWMA;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2019;qrei;Wiley;CUSUM, EWMA;Adaptive;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL, ATS;n
+haq2020;qrei;Wiley;CUSUM, EWMA;Adaptive;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ATS;n
+haq2020-1;qrei;Wiley;EWMA;;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+haq2021;qrei;Wiley;EWMA;Adaptive;Variable;Auxiliary;y;n;Normal;(Monte Carlo) Simulation;ARL, ATS;n
+huberts2018;qrei;Wiley;Shewhart;;Variable;;n;n;Normal, t, Uniform, Gamma, logistic, Chi-squared, Lognormal;(Monte Carlo) Simulation;ARL, overall;n
+hussain2020;qrei;Wiley;CUSUM, EWMA;;Variable;Auxiliary;y;n;Normal, t;(Monte Carlo) Simulation, Numerical Integration;ARL, overall, comparison;n
+jardim2018;pom;Wiley;Shewhart;;Variable;;n;n;Normal;Numerical Integration, Analytically;ARL, FAR;n
+khedmati2015;qrei;Wiley;Shewhart;;Variable;Profile / Surface, Autocorrelated;y;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+khoo2011;qrei;Wiley;Shewhart;Synthetic;Variable and Attribute;;y;n;Normal;Markov Chain Approach;ARL;n
+kinat2019;qrei;Wiley;Shewhart;;Variable;Profile / Surface;y;n;Regression, Inverse Gaussian;(Monte Carlo) Simulation;ARL;n
+knoth2021;qrei;Wiley;memory-type;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+koutras2019;qrei;Wiley;memory-type;;Variable;;y;y;Normal, t, Copula;Analytically;ARL, FAR;n
+kumar2019;qrei;Wiley;Shewhart;;Variable;TBE;n;n;Gamma;(Monte Carlo) Simulation, Numerical Integration;ARL, misc.;n
+kumar2019-1;qrei;Wiley;Shewhart;;Variable;TBE;n;n;Exponential;Numerical Integration, Analytically;ARL, FAR, misc.;n
+li2020;qrei;Wiley;EWMA;;Variable;Autocorrelated;n;n;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+mahmood2020;qrei;Wiley;Shewhart;;Variable;;y;n;Normal;(Monte Carlo) Simulation;ARL;n
+malela-majika2017;qrei;Wiley;CUSUM, EWMA;;Variable;;n;y;Normal, t, Gamma, Laplace;(Monte Carlo) Simulation, Analytically;ARL, overall, comparison;n
+nguyen2019;qrei;Wiley;CUSUM;Adaptive;Variable;;y;n;Normal;Markov Chain Approach;ATS, overall;n
+noorossana2010;qrei;Wiley;Shewhart, EWMA;;Variable;Profile / Surface;y;n;Regression, Normal, t, Gamma;(Monte Carlo) Simulation;ARL;n
+ou2011;qrei;Wiley;Shewhart, CUSUM, memory-type;Adaptive;Variable;;n;n;Normal;Numerical Integration, Analytically;ATS, overall, comparison;n
+panagiotidou2010;pom;Wiley;Shewhart;;Variable;;n;n;Normal;Analytically;-;y
+paulino2016;qrei;Wiley;Shewhart;;Attribute;;n;n;Poisson;Analytically;ARL;n
+qiu2014;qrei;Wiley;CUSUM;;Variable;;n;n;Normal, t, Chi-squared;(Monte Carlo) Simulation;ARL;n
+rakitzis2015;qrei;Wiley;CUSUM;;Attribute;;n;n;Binomial;Markov Chain Approach;ARL;n
+raza2019;qrei;Wiley;EWMA;;Variable;;n;y;Normal, t, Laplace, Logistic;(Monte Carlo) Simulation;ARL, overall, comparison;n
+riaz2010;qrei;Wiley;CUSUM;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+riaz2019;qrei;Wiley;Shewhart;;Variable;Profile / Surface;n;n;Regression, Normal;(Monte Carlo) Simulation;ARL;n
+riaz2020;qrei;Wiley;memory-type;;Variable;;n;y;-;(Monte Carlo) Simulation;ARL;n
+rizzo2020;qrei;Wiley;Shewhart;;Variable;TBE;n;n;Erlang;(Monte Carlo) Simulation;ARL, ASS, FAR;n
+sabahno2018;qrei;Wiley;Shewhart;Adaptive;Variable;;y;n;Normal;Markov Chain Approach;ARL, ATS;n
+saleh2012;qrei;Wiley;EWMA;;Variable;;n;n;Normal;Markov Chain Approach;ARL;n
+schoonhoven2009;qrei;Wiley;Shewhart;;Variable;;n;n;Normal, t, Logistic, Exponential, Chi-squared;(Monte Carlo) Simulation;ARL, FAR;n
+shen2013-wiley;nrl;Wiley;EWMA;;Attribute;;n;n;Poisson;(Monte Carlo) Simulation, Markov Chain Approach;ARL, FAR;n
+tran2015;qrei;Wiley;EWMA;;Variable;;y;n;Normal;Markov Chain Approach;ARL, overall;n
+tran2017;qrei;Wiley;Shewhart;;Variable;;n;n;Normal;Markov Chain Approach;ARL, overall;n
+tran2018;qrei;Wiley;Shewhart, EWMA;;Variable;;n;n;Normal;Markov Chain Approach, Analytically;ARL, overall;n
+vanhatalo2009;qrei;Wiley;Shewhart;;Variable;;y;y;-;not mentioned;-;n
+vanhatalo2015;qrei;Wiley;Shewhart;;Variable;Autocorrelated;y;y;Time Series Model, Normal;(Monte Carlo) Simulation;ARL;n
+yamauchi2019;qrei;Wiley;Shewhart, EWMA;;Attribute;;y;n;Poisson;(Monte Carlo) Simulation;ARL;n
+yeong2011;qrei;Wiley;Shewhart;Synthetic;Variable and Attribute;;n;n;Normal;(Monte Carlo) Simulation;ARL;y
+zaman2016;qrei;Wiley;CUSUM, EWMA;;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+zaman2017;qrei;Wiley;CUSUM, EWMA;Adaptive;Variable;;n;n;Normal;(Monte Carlo) Simulation;ARL;n
+zhang2011-wiley;qrei;Wiley;Shewhart;Adaptive;Variable;;n;n;Normal;Analytically;ATS;n
+zhang2013;qrei;Wiley;CUSUM;;Variable;TBE;n;n;Exponential;Markov Chain Approach;ARL;n
+zhang2016-wiley;nrl;Wiley;EWMA;;Variable;;n;n;Weibull;(Monte Carlo) Simulation;ARL, FAR, comparison;n
+zou2012;nrl;Wiley;EWMA;;Variable;;y;y;Normal, t, Gamma, Chi-squared;Markov Chain Approach;ARL;n
